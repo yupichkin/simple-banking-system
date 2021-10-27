@@ -4,6 +4,7 @@ In main menu you will have this available commands:
 1. Create an account
 2. Log into account
 0. Exit
+
 ![image](https://user-images.githubusercontent.com/55722614/138979182-ae88189d-ce66-4afe-b72c-43803a8557d3.png)
 
 ![image](https://user-images.githubusercontent.com/55722614/138979260-6fe5806b-8eef-440b-80ae-df832523ed6f.png)
