@@ -20,6 +20,7 @@ After logging in some account you will have this available commands:
 
 ![image](https://user-images.githubusercontent.com/55722614/138982283-a9e3f69b-6508-4a2c-b5aa-9e54ec5f6d2e.png)
 ![image](https://user-images.githubusercontent.com/55722614/138982315-34991d14-98fe-4be6-b9e0-eef9071f8de5.png)
+![image](https://user-images.githubusercontent.com/55722614/138982367-dbe3ae9b-26af-454e-9d38-3b822fc40183.png)
 
 
 this is simple project with basic sql commands
